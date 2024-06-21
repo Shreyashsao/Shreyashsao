@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash</h1>
-<h3 align="center">A Data analyst with experience interpreting and analyzing data. Good understanding of platforms for effective data analysis, including SQL, Spreadsheets, Power BI/Tableau, Python and its libraries. Strong organizational, and analytical skills. Currently enrolled in Data science program by Masai</h3>
+<h3 align="center">A Data analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashsao&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashsao" /> </p>
 
